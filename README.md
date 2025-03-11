@@ -1,5 +1,4 @@
-Feel free to contribute! 💖 <br>
-View the Web App here: https://open-source-chandigarh.github.io/Cafe-Management/
+
 
 # Cafe Management 
 The **"Cafe Management"** project is an open-source web application designed to streamline the operations of a café or a coffee shop. An online portal for cafe for ordering coffee or snacks. It is developed using HTML, CSS, and JavaScript, making it easily accessible and modifiable for contributors. The project is hosted on GitHub, allowing developers to collaborate and contribute to its enhancement and maintenance. <br>
